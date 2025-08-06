@@ -46,7 +46,11 @@ You can also use your own dataset or download from open sources.
 - Saving .ipynb work and uploading to GitHub
 
 ---
+# 🔗 Connect with Me
 
-## 🙌 Acknowledgement
+If you found this useful, feel free to check out my [LinkedIn](https://www.linkedin.com/in/vaishnavi-s-thakur-b8a4b9333) profile or reach out for collaboration
+
+---
+## Acknowledgement
 
 Thanks to *Prodigy InfoTech* for providing this learning opportunity as a part of the Data Science Internship.
